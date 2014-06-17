@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Podcast</title>
+    <link>file://localhost/Users/student/GlassBottle/Podcast</link>
+    <description>Sed on arcu hac habitasse platea dictumst, praesent ed nibh. Praesent eu mi integer libero sed dignissim, turpis tinc idunt. Egestas tortor mauris vulputate ante, vel cursus enim tortor sit amet tortor duis libero.</description>
+    <item>
+      <title>ocean view scenery</title>
+      <link>file://localhost/Users/student/GlassBottle/Podcast/Entries/2014/6/17_ocean_view_scenery.html</link>
+      <guid isPermaLink="false">9d31d7c1-9f64-4f20-9311-66da5c9f32e8</guid>
+      <pubDate>Tue, 17 Jun 2014 12:14:30 -0400</pubDate>
+      <description>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet, nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoreet.</description>
+      <iweb:image href="Media/57363037C-1.jpg"></iweb:image>
+      <iweb:badge type="movie"></iweb:badge>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/student/GlassBottle/Podcast/Entries/2014/6/17_ocean_view_scenery.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/student/GlassBottle/Podcast</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

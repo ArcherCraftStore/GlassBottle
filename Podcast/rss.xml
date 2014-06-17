@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Travel Podcast</title>
+    <link>file://localhost/Users/student/GlassBottle/Podcast/Podcast.html</link>
+    <description>Sed on arcu hac habitasse platea dictumst, praesent ed nibh. Praesent eu mi integer libero sed dignissim, turpis tinc idunt. Egestas tortor mauris vulputate ante, vel cursus enim tortor sit amet tortor duis libero.</description>
+    <generator>iWeb 3.0.4</generator>
+    <image>
+      <url>file://localhost/Users/student/GlassBottle/Podcast/Podcast_files/TR004400B.jpg</url>
+      <title>Travel Podcast</title>
+      <link>file://localhost/Users/student/GlassBottle/Podcast/Podcast.html</link>
+    </image>
+    <ttl>60</ttl>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:subtitle>Sed on arcu hac habitasse platea dictumst, praesent ed nibh. Praesent eu mi integer libero sed dignissim, turpis tinc idunt. Egestas tortor mauris vulputate ante, vel cursus enim tortor sit amet tortor duis libero.</itunes:subtitle>
+    <itunes:summary>Sed on arcu hac habitasse platea dictumst, praesent ed nibh. Praesent eu mi integer libero sed dignissim, turpis tinc idunt. Egestas tortor mauris vulputate ante, vel cursus enim tortor sit amet tortor duis libero.</itunes:summary>
+    <itunes:image href="file://localhost/Users/student/GlassBottle/Podcast/Podcast_files/TR004400B.jpg"/>
+    <language>en</language>
+    <item>
+      <title>ocean view scenery</title>
+      <link>file://localhost/Users/student/GlassBottle/Podcast/Entries/2014/6/17_ocean_view_scenery.html</link>
+      <guid isPermaLink="false">9d31d7c1-9f64-4f20-9311-66da5c9f32e8</guid>
+      <pubDate>Tue, 17 Jun 2014 12:14:30 -0400</pubDate>
+      <description>&lt;a href=&quot;file://localhost/Users/student/GlassBottle/Media/57363037C.mp4&quot;&gt;&lt;img src=&quot;file://localhost/Users/student/GlassBottle/Podcast/Media/57363037C-1_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:300px; height:300px;&quot;/&gt;&lt;/a&gt;Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet, nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoreet.</description>
+      <enclosure url="file://localhost/Users/student/GlassBottle/Media/57363037C.mp4" length="27878" type="video/mp4"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:subtitle>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. </itunes:subtitle>
+      <itunes:summary>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet, nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoreet.</itunes:summary>
+    </item>
+  </channel>
+</rss>
